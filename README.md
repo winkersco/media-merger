@@ -1,5 +1,7 @@
 # Media Merger
 
+Media Merger is a python script that merge many media files as a single file.
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
